@@ -25,7 +25,7 @@ This project is not a substitute for active participation and attendance in clas
 To use this project, follow these simple steps:
 
 1. Clone the repository: `https://github.com/xtrop/quartz.git`
-2. Open `index.html` in your web browser.
+2. Open `index.md` in your web browser.
 3. Click on the "Add New Entry" button to create a new discussion topic entry.
 4. Enter the date and a brief title for the discussion topic.
 5. Save the entry.
