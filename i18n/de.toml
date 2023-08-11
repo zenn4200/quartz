@@ -62,4 +62,4 @@ other = "Suche nach etwas ..."
 other = "Inhaltsverzeichnis"
 
 [copyright]
-other = "Made with ❤️ by {{ .name }} , © {{ .year }}"
+other = "Made with 🖤 by {{ .name }} , © {{ .year }}"
