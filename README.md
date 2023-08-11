@@ -50,5 +50,3 @@ This project is available under the MIT License. You're free to use, modify, and
 If you have any questions or suggestions, feel free to contact me 
 
 ---
-
-Feel free to adjust the disclaimer and the rest of the README as needed to best convey the intended message and context of your project.
