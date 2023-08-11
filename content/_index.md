@@ -19,20 +19,20 @@ Stay in the loop with daily class topics.
 
 Access knowledge, ace your studies! 📚
 
-### [Economics Books](http://xtrop.ddns.net:8080){:target="_blank"}
+### <a href="http://xtrop.ddns.net:8080" target="_blank">Economics Books</a>
 
 ## Books Recommended by Teachers
 
 For beginners (no economics in 12th):
-- [**ELEMENTARY ECONOMIC THEORY by K.K. Dewett and J.D. Verma**](https://amzn.eu/d/6VyClJK){:target="_blank"}
-- [**NCERT Class 12th Macro and Micro Economics**](https://ncert.nic.in/textbook.php){:target="_blank"}
+- [**ELEMENTARY ECONOMIC THEORY by K.K. Dewett and J.D. Verma**](https://amzn.eu/d/6VyClJK)
+- <a href="https://ncert.nic.in/textbook.php" target="_blank">**NCERT Class 12th Macro and Micro Economics**</a>
 
 For students familiar with economics:
-- [**Modern MicroEconomics by H.L. Ahuja (highly recommended)**](https://amzn.eu/d/3dSogZk){:target="_blank"}
-- [**Principles of MicroEconomics by H.L. Ahuja**](https://amzn.eu/d/2EXJDC6){:target="_blank"}
-- [**MicroEconomics by M.L Jhingan**](https://amzn.eu/d/j2eS76a){:target="_blank"}
+- <a href="https://amzn.eu/d/3dSogZk" target="_blank">**Modern MicroEconomics by H.L. Ahuja (highly recommended)**</a>
+- <a href="https://amzn.eu/d/2EXJDC6" target="_blank">**Principles of MicroEconomics by H.L. Ahuja**</a>
+- <a href="https://amzn.eu/d/j2eS76a" target="_blank">**MicroEconomics by M.L Jhingan**</a>
 
 For advanced learners:
-- [**Modern MicroEconomics by A. Koutsoyiannis**](https://amzn.eu/d/3yjNpRd){:target="_blank"}
+- <a href="https://amzn.eu/d/3yjNpRd" target="_blank">**Modern MicroEconomics by A. Koutsoyiannis**</a>
 
 **Note that some of the recommended books are available as PDFs in the Economics Books section of this site.**
