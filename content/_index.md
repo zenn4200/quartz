@@ -24,7 +24,7 @@ Access knowledge, ace your studies! 📚
 ## Books Recommended by Teachers
 
 For beginners (no economics in 12th):
-- [**ELEMENTARY ECONOMIC THEORY by K.K. Dewett and J.D. Verma**](https://amzn.eu/d/6VyClJK)
+- <a href="https://amzn.eu/d/6VyClJK" target="_blank">**ELEMENTARY ECONOMIC THEORY by K.K. Dewett and J.D. Verma**</a>
 - <a href="https://ncert.nic.in/textbook.php" target="_blank">**NCERT Class 12th Macro and Micro Economics**</a>
 
 For students familiar with economics:
