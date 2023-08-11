@@ -34,8 +34,8 @@ For students familiar with economics:
 For advanced learners:
 - [**Modern MicroEconomics by A. Koutsoyiannis**](https://amzn.eu/d/3yjNpRd)
 
-
 **Note than some of the recommended books are available as pdf in Economics books section of this site**
+
 
 
 
