@@ -15,6 +15,7 @@ Stay in the loop with daily class topics.
 2. [[08-08-2023]]
 3. [[09-08-2023]]
 4. [[10-08-2023]]
+5. [[11-08-2023]]
 
 Access knowledge, ace your studies! 📚
 ### [Economics books](http://xtrop.ddns.net:8080)
