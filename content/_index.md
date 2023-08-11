@@ -18,7 +18,8 @@ Stay in the loop with daily class topics.
 5. [[11-08-2023]]
 
 Access knowledge, ace your studies! 📚
-### [Economics books](http://xtrop.ddns.net:8080)
+
+### [Economics Books](http://xtrop.ddns.net:8080)
 
 ## Books Recommended by Teachers
 
@@ -34,9 +35,4 @@ For students familiar with economics:
 For advanced learners:
 - [**Modern MicroEconomics by A. Koutsoyiannis**](https://amzn.eu/d/3yjNpRd)
 
-**Note than some of the recommended books are available as pdf in Economics books section of this site**
-
-
-
-
-
+**Note that some of the recommended books are available as PDFs in the Economics Books section of this site.**
