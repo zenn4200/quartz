@@ -33,6 +33,6 @@ For students familiar with economics:
 <a target="_blank" href="https://www.amazon.in/dp/8182815622?ref_=cm_sw_r_cp_ud_dp_EWT0X8WDM5CYCZ7XH50X&_encoding=UTF8&tag=journal06-21&linkCode=ur2&linkId=6a1513e3675473fe7495bd382130325f&camp=3638&creative=24630">**MicroEconomics by M.L Jhingan**</a>
 
 For advance learners:
-- <a href="https://amzn.eu/d/3yjNpRd" target="_blank">**Modern MicroEconomics by A. Koutsoyiannis**</a>
+- <a target="_blank" href="https://www.amazon.in/dp/9356404100?ref_=cm_sw_r_cp_ud_dp_JZA6ZQGCCAK04QCCD4XF&_encoding=UTF8&tag=journal06-21&linkCode=ur2&linkId=29d1b4940c4e451fb9eb664b1fdf07f5&camp=3638&creative=24630">**Modern MicroEconomics by A. Koutsoyiannis**</a>
 
 **Note that some of the recommended books are available as PDFs in the Economics Books section of this site.**
