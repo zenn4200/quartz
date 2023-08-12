@@ -30,7 +30,7 @@ For beginners (no economics in 12th):
 For students familiar with economics:
 - <a target="_blank" href="https://www.amazon.in/dp/9355011016?ref_=cm_sw_r_cp_ud_dp_RQE92V1YY7994S936HDX&_encoding=UTF8&tag=journal06-21&linkCode=ur2&linkId=7087355f080eb06ef6b7bec296d363db&camp=3638&creative=24630">**Modern MicroEconomics by H.L. Ahuja (highly recommended)**</a>
 - <a target="_blank" href="https://www.amazon.in/dp/9352837312?ref_=cm_sw_r_cp_ud_dp_3WCRSCFQY3ABP8XPBCQ9&_encoding=UTF8&tag=journal06-21&linkCode=ur2&linkId=84c4d5fd3c35cce7bc4a1c24ed1b62e5&camp=3638&creative=24630">**Principles of MicroEconomics by H.L. Ahuja**</a>
-<a target="_blank" href="https://www.amazon.in/dp/8182815622?ref_=cm_sw_r_cp_ud_dp_EWT0X8WDM5CYCZ7XH50X&_encoding=UTF8&tag=journal06-21&linkCode=ur2&linkId=6a1513e3675473fe7495bd382130325f&camp=3638&creative=24630">**MicroEconomics by M.L Jhingan**</a>
+- <a target="_blank" href="https://www.amazon.in/dp/8182815622?ref_=cm_sw_r_cp_ud_dp_EWT0X8WDM5CYCZ7XH50X&_encoding=UTF8&tag=journal06-21&linkCode=ur2&linkId=6a1513e3675473fe7495bd382130325f&camp=3638&creative=24630">**MicroEconomics by M.L Jhingan**</a>
 
 For advance learners:
 - <a target="_blank" href="https://www.amazon.in/dp/9356404100?ref_=cm_sw_r_cp_ud_dp_JZA6ZQGCCAK04QCCD4XF&_encoding=UTF8&tag=journal06-21&linkCode=ur2&linkId=29d1b4940c4e451fb9eb664b1fdf07f5&camp=3638&creative=24630">**Modern MicroEconomics by A. Koutsoyiannis**</a>
