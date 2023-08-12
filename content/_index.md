@@ -32,7 +32,7 @@ For students familiar with economics:
 - <a href="https://amzn.eu/d/2EXJDC6" target="_blank">**Principles of MicroEconomics by H.L. Ahuja**</a>
 - <a href="https://amzn.eu/d/j2eS76a" target="_blank">**MicroEconomics by M.L Jhingan**</a>
 
-For advanced learners:
+For advance learners:
 - <a href="https://amzn.eu/d/3yjNpRd" target="_blank">**Modern MicroEconomics by A. Koutsoyiannis**</a>
 
 **Note that some of the recommended books are available as PDFs in the Economics Books section of this site.**
