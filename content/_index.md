@@ -16,6 +16,7 @@ Stay in the loop with daily class topics.
 3. [[09-08-2023]]
 4. [[10-08-2023]]
 5. [[11-08-2023]]
+6. [[12-08-2023]]
 
 Access knowledge, ace your studies! 📚
 
