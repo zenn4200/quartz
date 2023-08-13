@@ -6,6 +6,9 @@ enableToc: false
 # Class Discussion Journal
 
 **BA ECONOMICS 23-27**  
+
+[[Syllabus Semester I]]  
+
 Stay in the loop with daily class topics.  
 
 **Disclaimer:** The information here is intended for personal use. While every effort is made to ensure accuracy, attending class is recommended for real-time updates. The author assumes no liability for the content.
