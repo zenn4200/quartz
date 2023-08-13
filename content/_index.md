@@ -10,7 +10,7 @@ Stay in the loop with daily class topics.
 
 **Disclaimer:** The information here is intended for personal use. While every effort is made to ensure accuracy, attending class is recommended for real-time updates. The author assumes no liability for the content.
 
-**Dates:**
+## Dates
 1. [[07-08-2023]]
 2. [[08-08-2023]]
 3. [[09-08-2023]]
@@ -22,9 +22,10 @@ Stay in the loop with daily class topics.
 
 Access knowledge, ace your studies! 📚  
 
-### <a href="http://xtrop.ddns.net:8080" target="_blank">Economics Books</a>
+## Economics Books
+- <a href="http://xtrop.ddns.net:8080" target="_blank">Economics Books</a>
 
-## Books Recommended by Teachers
+### Books Recommended by Teachers
 
 For beginners (no economics in 12th):
 - <a target="_blank" href="https://www.amazon.in/dp/8121907934?ref_=cm_sw_r_cp_ud_dp_DDX3WDJ7S04WV2GVR9MT_1&_encoding=UTF8&tag=journal06-21&linkCode=ur2&linkId=ea5a52e67940643c7073d4786e7eadc0&camp=3638&creative=24630">**ELEMENTARY ECONOMIC THEORY by K.K. Dewett and J.D. Verma**</a>
