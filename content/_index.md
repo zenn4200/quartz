@@ -18,8 +18,10 @@ Stay in the loop with daily class topics.
 5. [[11-08-2023]]
 6. [[12-08-2023]]
 
-Access knowledge, ace your studies! 📚  
 <a href="https://www.wikiwand.com/en/Microeconomics" target="_blank">**MicroEconomics Overview**</a>
+
+Access knowledge, ace your studies! 📚  
+
 ### <a href="http://xtrop.ddns.net:8080" target="_blank">Economics Books</a>
 
 ## Books Recommended by Teachers
