@@ -23,7 +23,9 @@ Stay in the loop with daily class topics.
 7. [[14-08-2023]]
 
 <a href="https://www.wikiwand.com/en/Economics" target="_blank">**Economics Overview**</a>  
-<a href="https://www.wikiwand.com/en/Microeconomics" target="_blank">**Microeconomics Overview**</a>
+<a href="https://www.wikiwand.com/en/Microeconomics" target="_blank">**Microeconomics Overview**</a>  
+
+[[SELF HELP RESOURCES]]
 
 Access knowledge, ace your studies! 📚  
 
