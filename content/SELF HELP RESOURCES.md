@@ -2,7 +2,6 @@
 title: Self Help Resources
 ---
 
-## Self Help Resources
 1. <a href="https://ciet.nic.in/" target="_blank">**NCERT (CIET)**</a> 
 2. <a href="https://swayam.gov.in/" target="_blank">**Swayam**</a> 
 3. <a href="https://egyankosh.ac.in/" target="_blank">**E-Gyankosh**</a>
