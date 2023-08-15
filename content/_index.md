@@ -21,6 +21,7 @@ Stay in the loop with daily class topics.
 5. [[11-08-2023]]
 6. [[12-08-2023]]
 7. [[14-08-2023]]
+8. [[15-08-2023]]
 
 <a href="https://www.wikiwand.com/en/Economics" target="_blank">**Economics Overview**</a>  
 <a href="https://www.wikiwand.com/en/Microeconomics" target="_blank">**Microeconomics Overview**</a>  
