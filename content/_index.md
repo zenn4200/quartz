@@ -25,10 +25,9 @@ Stay in the loop with daily class topics.
 <a href="https://www.wikiwand.com/en/Economics" target="_blank">**Economics Overview**</a>  
 <a href="https://www.wikiwand.com/en/Microeconomics" target="_blank">**Microeconomics Overview**</a>  
 
-[[SELF HELP RESOURCES]]
-
 Access knowledge, ace your studies! 📚  
 
+[[SELF HELP RESOURCES]]
 ## Economics Books
 - <a href="http://xtrop.ddns.net:8080" target="_blank">Economics Books</a>
 
