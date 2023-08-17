@@ -10,7 +10,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/xtrop/quartz/tree/hugo/content
 search:
@@ -21,6 +21,3 @@ description:
     A website keeping journal of class discussion topics
 page_title:
   "📚 Journal"
-links:
-  - link_name: GitHub
-    link: https://github.com/xtrop/quartz
