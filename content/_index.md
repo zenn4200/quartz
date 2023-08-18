@@ -30,8 +30,8 @@ Stay in the loop with daily class topics.
 
 Access knowledge, ace your studies! 📚  
 
-[[SELF HELP RESOURCES]]   
-[[EXAM TIPS]]
+- [[SELF HELP RESOURCES]]   
+- [[EXAM TIPS]]
 ## Economics Books
 - <a href="http://xtrop.ddns.net:8080" target="_blank">Economics Books</a>
 
