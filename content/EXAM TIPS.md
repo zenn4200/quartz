@@ -2,5 +2,5 @@
 title: Exam Tips
 ---
 
-1. **[[Answer Writing Practice]]
+1. [[Answer Writing Practice]]
 
