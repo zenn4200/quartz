@@ -34,8 +34,8 @@ Access knowledge, ace your studies! 📚
 
 - [[SELF HELP RESOURCES]]   
 - [[EXAM TIPS]]
-## Economics Books
-- <a href="http://xtrop.ddns.net:8080" target="_blank">Economics Books</a>
+## E-LIBRARY
+- <a href="http://xtrop.ddns.net:8080" target="_blank">E-Books</a>
 
 ### Books Recommended by Teachers
 
@@ -51,4 +51,4 @@ For students familiar with economics:
 For advance learners:
 - <a target="_blank" href="https://www.amazon.in/dp/9356404100?ref_=cm_sw_r_cp_ud_dp_JZA6ZQGCCAK04QCCD4XF&_encoding=UTF8&tag=journal06-21&linkCode=ur2&linkId=29d1b4940c4e451fb9eb664b1fdf07f5&camp=3638&creative=24630">**Modern MicroEconomics by A. Koutsoyiannis**</a>
 
-**Note that some of the recommended books are available as PDFs in the Economics Books section of this site.**
+**Note that some of the recommended books are available as PDFs in the E-Library section of this site.**
