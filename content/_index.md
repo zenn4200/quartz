@@ -35,7 +35,7 @@ Access knowledge, ace your studies! 📚
 - [[SELF HELP RESOURCES]]   
 - [[EXAM TIPS]]
 ## E-LIBRARY
-- <a href="http://xtrop.ddns.net:8080" target="_blank">E-Books (accesible only through web)</a>
+- <a href="http://xtrop.ddns.net:8080" target="_blank">E-Books (accessible only through web)</a>
 
 ### Books Recommended by Teachers
 
