@@ -9,6 +9,8 @@ enableToc: false
 
 [[Syllabus Semester I]]  
 
+- <a href="https://drive.google.com/file/d/1z5FoLL9V9T-bPNEvi6YKRGytG2LEdwED/view?usp=sharing" target="_blank">Download APP</a>
+
 Stay in the loop with daily class topics.  
 
 **Disclaimer:** The information here is intended for personal use. While every effort is made to ensure accuracy, attending class is recommended for real-time updates. The author assumes no liability for the content.
