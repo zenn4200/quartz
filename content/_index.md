@@ -58,4 +58,7 @@ For students familiar with economics:
 For advance learners:
 - <a target="_blank" href="https://www.amazon.in/dp/9356404100?ref_=cm_sw_r_cp_ud_dp_JZA6ZQGCCAK04QCCD4XF&_encoding=UTF8&tag=journal06-21&linkCode=ur2&linkId=29d1b4940c4e451fb9eb664b1fdf07f5&camp=3638&creative=24630">**Modern MicroEconomics by A. Koutsoyiannis**</a>
 
+For English
+- <a target="_blank" href="https://www.amazon.in/Brush-up-Your-English-S-T-Imam/dp/8177092677?&_encoding=UTF8&tag=journal06-21&linkCode=ur2&linkId=348e2aa9d67c30ee3ebb7cfb885b0479&camp=3638&creative=24630">**Brush Up Your English**</a>
+
 **Note that some of the recommended books are available as PDFs in the E-Library section of this site.**
